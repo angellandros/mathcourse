@@ -1,0 +1,1 @@
+		<div id="lastnav" style="background-color:RGB(241,241,241);font-family:tahoma">			Copyright © 2013 <a>کلبه آفرینش فکر</a>. All rights reserved.		</div>
